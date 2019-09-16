@@ -12,6 +12,7 @@
     "html-to-pdfmake": "^1.0.7",
     "pdfmake": "^0.1.59",
     "simplemde": "^1.11.2",
+    "tailwindcss": "^1.1.2",
     "vue": "^2.6.10"
   },
   "devDependencies": {

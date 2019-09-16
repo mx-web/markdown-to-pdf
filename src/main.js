@@ -9,8 +9,12 @@ pdfMake.vfs = pdfFonts.pdfMake.vfs;
 
 var htmlToPdfMake = require("html-to-pdfmake");
 
-var 
 
+require('simplemde/dist/simplemde.min.css');
+
+import SimpleMDE from "simplemde";
+
+Vue.prototype.$SimpleMDE = SimpleMDE; 
 
 
 new Vue({
