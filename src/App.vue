@@ -7,6 +7,9 @@
 <script>
 
 export default {
-  name: 'app'
+  name: 'app',
+  mounted: function() {
+    
+  }
 }
 </script>
